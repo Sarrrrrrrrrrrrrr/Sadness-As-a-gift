@@ -527,3 +527,5 @@ int main () {
     } while (pilihanMenu != 3);
     return 0;
 }
+
+// Kalian hebat, aku bot
