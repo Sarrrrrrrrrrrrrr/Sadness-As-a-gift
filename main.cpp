@@ -528,4 +528,5 @@ int main () {
     return 0;
 }
 
-// Kalian hebat, aku bot
+// hjsdhdhufahu
+// dfdfhudfhudhu
