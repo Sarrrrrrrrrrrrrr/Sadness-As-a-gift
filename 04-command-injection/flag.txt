@@ -1,1 +1,0 @@
-FLAG{c0mm4nd_1nj3ct10n_vi4_sh3ll_true}
