@@ -1,0 +1,12 @@
+# Compiled lab binaries
+01-buffer-overflow/vulnerable
+02-format-string/vulnerable
+core
+core.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime state created by the web labs
+03-sql-injection/app.db
